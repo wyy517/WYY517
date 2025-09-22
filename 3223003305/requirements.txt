@@ -1,0 +1,4 @@
+# requirements.txt
+pytest==8.3.3
+pytest-cov==5.0.0
+matplotlib==3.9.0    # 可选：用于画图（性能分析图可手动截图）
